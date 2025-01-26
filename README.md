@@ -1,4 +1,5 @@
-# sentimental_analysis_on-_reviews
+# Sentimental Analyis on Text Data
+
 Performing Sentimental Analysis on Reviews using NLP on Yelp Dataset
 
 **Dataset**:
